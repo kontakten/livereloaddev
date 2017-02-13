@@ -1,6 +1,6 @@
-## Dev Env.
+# Dev Env.
 
-## LiveReload.
-## Sass minify.
-## JS uglify.
-## plumber for error handling.
+### LiveReload.
+### Sass minify.
+### JS uglify.
+### plumber for error handling.
