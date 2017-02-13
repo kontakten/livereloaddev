@@ -27,7 +27,7 @@ Watch only for file changes:
 
 ## Packages
 
-### LiveReload.
-### Sass minify.
-### JS uglify.
-### plumber for error handling.
+#### LiveReload.
+#### Sass minify.
+#### JS uglify.
+#### plumber for error handling.
