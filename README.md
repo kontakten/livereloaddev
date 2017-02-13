@@ -1,11 +1,8 @@
 # Dev Env.
 
-## Packages
+## Description
 
-### LiveReload.
-### Sass minify.
-### JS uglify.
-### plumber for error handling.
+Testing out gulp, and its possibilities.
 
 ## Guide / Setup:
 
@@ -27,3 +24,10 @@ Watch only for file changes:
 ```
 - gulp watch // minifies sass, and uglifies js
 ```
+
+## Packages
+
+### LiveReload.
+### Sass minify.
+### JS uglify.
+### plumber for error handling.
