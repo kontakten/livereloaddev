@@ -2,7 +2,7 @@
 
 ## Description
 
-Testing out gulp, and its possibilities.
+Fooling around with some gulp & nodejs.
 
 ## Guide / Setup:
 
