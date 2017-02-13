@@ -5,6 +5,8 @@
 ### JS uglify.
 ### plumber for error handling.
 
+## Guide / Setup:
+
 ### Commands:
 
 Install package dependencies:
